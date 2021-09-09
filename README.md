@@ -1,6 +1,3 @@
-React.js-Posts
-
-
 
 ![Facebook](https://github.com/Andrey2191/React.js-Posts/raw/main/images/facebook.png)
 
